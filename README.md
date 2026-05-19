@@ -1,5 +1,3 @@
-Here is the complete README.md file ready to copy-paste:
-
 # Hamburger Sidebar Widget for Elementor
 
 A lightweight, customizable Elementor widget that adds a responsive hamburger menu button with a smooth slide-in sidebar panel. Supports nested submenus with accordion behavior, custom logos, and full Elementor template integration.
