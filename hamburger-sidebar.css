@@ -152,6 +152,17 @@ ul li::marker, ol li::marker {
   opacity: 0;
   transition: max-height 0.8s ease, opacity 0.8s ease, margin-top 0.8s ease;
 }
+.mobile-sidebar {
+  -webkit-overflow-scrolling: touch;
+}
+
+.hsw-nav-menu a {
+  cursor: pointer;
+}
+
+.hsw-nav-menu .caret-open,
+.hsw-nav-menu .caret-close {
+  pointer-events: auto;
 }
 
 .hsw-nav-menu .sub-menu a {
